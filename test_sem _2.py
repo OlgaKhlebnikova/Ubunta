@@ -16,7 +16,7 @@
 Проверить, что хеш совпадает с рассчитанным командой crc32.
 """
 
-from seminar2_1 import checkout
+from seminar2 import checkout
 import  subprocess
 
 folderin = "/home/user/tst"

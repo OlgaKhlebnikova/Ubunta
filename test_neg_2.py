@@ -3,7 +3,7 @@
 # Написать негативные тесты работы архиватора с командами распаковки (e) и проверки (t)
 # поврежденного архива.
 
-from seminar2_1 import checkout_negative
+from seminar2 import checkout_negative
 
 folderin = " /home/user/tst"
 folderout = " /home/user/out"
